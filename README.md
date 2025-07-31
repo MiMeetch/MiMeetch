@@ -9,7 +9,6 @@ Mechanical engineer turned software engineer specializing in full-stack web syst
 * 🌍  I'm based in Atlanta
 * 🖥️  See my portfolio at [mhollyfield.net](http://www.mhollyfield.net)
 * ✉️  You can contact me at [hollyfieldmitch@gmail.com](mailto:hollyfieldmitch@gmail.com)
-* 🚀  I'm currently working on [Phoenix Link](http://staging.talitrix.dev)
 
 ### Skills
 
